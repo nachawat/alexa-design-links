@@ -72,3 +72,4 @@ Link | Topic
 [alexa.design/contactus](https://alexa.design/contactus) | Alexa Contact Us Form
 [alexa.design/forums](https://alexa.design/forums) | Alexa Forums
 [alexa.design/champions](https://alexa.design/champions) | Alexa Champions
+[alexa.design/alexastudentinfluencer](https://alexa.design/alexastudentinfluencer) | Alexa Student Influencers
